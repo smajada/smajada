@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sergi</h1>
 <h3 align="center">A passionate student developer from Spain</h3>
 
-- 🔭 I’m currently working on [Python exercises](https://github.com/smajada/Python-exercises)
+- 🔭 I’m currently working on [Rummikub_Python](https://github.com/davidzz-code/Rummikub_Python)
 
 - 🌱 I’m currently learning **Python and MongoDB**
 
