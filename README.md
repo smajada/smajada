@@ -1,5 +1,7 @@
-# 💫 Hi! 👐🏻 I'm Sergi
-🔭 I’m currently working on XatLLM<br>🌱 I’m currently learning Javascript and Node.JS<br>⚡ Fun fact I was a spanish teacher before starting to learn web development
+# 💫 Hey there! 👋🏻 I'm Sergi, a passionate explorer of the web development galaxy.
+🔭 Currently on a mission with XatLLM, creating amazing digital experiences.
+🌱 Fueling my learning engines with JavaScript and Node.JS, seeking new front-end horizons.
+⚡ Fun fact: Before diving into web development, I was a skilled Spanish teacher. Language learning, meet coding! 🚀
 
 
 ## 🌐 Socials:
