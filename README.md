@@ -1,4 +1,4 @@
-# 💫 Hey there! 👋🏻 I'm Sergi, a passionate explorer of the web development galaxy.
+# 💫 Hey there! 👋🏻 I'm Sergi
 🔭 Currently on a mission with XatLLM, creating amazing digital experiences.
 
 🌱 Fueling my learning engines with JavaScript and Node.JS, seeking new front-end horizons.
