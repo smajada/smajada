@@ -1,5 +1,5 @@
 # 💫 Hey there! 👋🏻 I'm Sergi
-🔭 Currently on a mission with XatLLM, creating amazing digital experiences.
+🔭 Currently on a mission with React.JS, creating amazing digital experiences.
 
 🌱 Fueling my learning engines with JavaScript and Node.JS, seeking new front-end horizons.
 
