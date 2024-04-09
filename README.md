@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently on a mission with Python, creating amazing digital experiences.<br><br>🌱 Fueling my learning engines with JavaScript and Laravel, seeking new fullstack horizons.<br><br>⚡ Fun fact: Before diving into web development, I was a skilled Spanish teacher. Language learning, meet coding! 🚀
+🔭 Currently on a mission with Srping Boot, creating amazing digital experiences.<br><br>🌱 Fueling my learning engines with React-Ts and Spring Boot, seeking new fullstack horizons.<br><br>⚡ Fun fact: Before diving into web development, I was a skilled Spanish teacher. Language learning, meet coding! 🚀
 
 
 ## 🌐 Socials:
